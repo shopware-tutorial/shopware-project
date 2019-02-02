@@ -8,7 +8,7 @@
 | -------- | ------------------|
 | PHP      | 7.2               |
 | MySQL    | 5.7.22            |
-| Shop     | Shopware 5.5.4    |
+| Shop     | Shopware 5.5.6    |
 
 
 ## System
