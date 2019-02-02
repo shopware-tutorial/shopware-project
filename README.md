@@ -24,8 +24,6 @@
 ### Stage-Server
 
 ```
-#!bash
-
 Host: 123.456.789.111
 User: myshopuser
 Shop-path: /var/www/www.myshop.com
