@@ -1,22 +1,31 @@
-
-# myshop.com
-
-Url: 
-* Stage: <www.myshop.com> (demo:demo)
+# Shopware-Project
 
 
+## Project-Info
 
-Backend-User
-
-User: demo  
-Pass: demo  
-
-
-Stage-Server
-
-Host: 123.0.0.1  
-User: stage-user   
-ShopPath: /var/www/www.myshop.com  
-Git-Repo: /var/www/shopware-project 
+-------------------------------
+| Name     | Version           |
+| -------- | ------------------|
+| PHP      | 7.1               |
+| MySQL    | 5.7.22            |
+| Shop     | Shopware 5.5.6    |
 
 
+## System
+
+### The shop can be called:
+
+
+1. Stage
+    * <https://www.myshop.com> (demo:demo)
+
+    
+
+### Stage-Server
+
+```
+Host: 123.456.789.111
+User: myshopuser
+Shop-path: /var/www/www.myshop.com
+Git-repo path: /var/www/shopware-project
+```
